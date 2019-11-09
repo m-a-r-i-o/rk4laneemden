@@ -34,7 +34,7 @@
 
 import math
 
-n = 3.0 #Lane-Emden exponent. Analytical solutions exist for n = 0, 1, 5.
+n = 5.0 #Lane-Emden exponent. Analytical solutions exist for n = 0, 1, 5.
 R = 60.0 #Dimensionless radius where to stop the computation. Increase to get an error.
 gammapoly = (1.0 + (1.0/n))
 
